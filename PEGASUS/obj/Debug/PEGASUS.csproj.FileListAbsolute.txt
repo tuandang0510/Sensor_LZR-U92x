@@ -1,0 +1,15 @@
+p:\Desktop\Reader\PEGASUS\PEGASUS\PEGASUS\bin\Debug\PEGASUS.exe
+p:\Desktop\Reader\PEGASUS\PEGASUS\PEGASUS\bin\Debug\PEGASUS.pdb
+p:\Desktop\Reader\PEGASUS\PEGASUS\PEGASUS\obj\Debug\PEGASUS.csprojAssemblyReference.cache
+p:\Desktop\Reader\PEGASUS\PEGASUS\PEGASUS\obj\Debug\PEGASUS.Properties.Resources.resources
+p:\Desktop\Reader\PEGASUS\PEGASUS\PEGASUS\obj\Debug\PEGASUS.csproj.GenerateResource.cache
+p:\Desktop\Reader\PEGASUS\PEGASUS\PEGASUS\obj\Debug\PEGASUS.exe
+p:\Desktop\Reader\PEGASUS\PEGASUS\PEGASUS\obj\Debug\PEGASUS.pdb
+H:\Sick\ITD.Sick\PEGASUS\bin\Debug\PEGASUS.exe
+H:\Sick\ITD.Sick\PEGASUS\bin\Debug\PEGASUS.pdb
+H:\Sick\ITD.Sick\PEGASUS\obj\Debug\PEGASUS.csprojAssemblyReference.cache
+H:\Sick\ITD.Sick\PEGASUS\obj\Debug\PEGASUS.Properties.Resources.resources
+H:\Sick\ITD.Sick\PEGASUS\obj\Debug\PEGASUS.csproj.GenerateResource.cache
+H:\Sick\ITD.Sick\PEGASUS\obj\Debug\PEGASUS.csproj.CoreCompileInputs.cache
+H:\Sick\ITD.Sick\PEGASUS\obj\Debug\PEGASUS.exe
+H:\Sick\ITD.Sick\PEGASUS\obj\Debug\PEGASUS.pdb

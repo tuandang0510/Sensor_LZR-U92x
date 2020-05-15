@@ -1,0 +1,52 @@
+p:\Desktop\Reader\PEGASUS\PEGASUS\PEGASUS.Common\bin\Debug\PEGASUS.Common.dll
+p:\Desktop\Reader\PEGASUS\PEGASUS\PEGASUS.Common\bin\Debug\PEGASUS.Common.pdb
+p:\Desktop\Reader\PEGASUS\PEGASUS\PEGASUS.Common\bin\Debug\NLog.dll
+p:\Desktop\Reader\PEGASUS\PEGASUS\PEGASUS.Common\bin\Debug\NLog.xml
+p:\Desktop\Reader\PEGASUS\PEGASUS\PEGASUS.Common\obj\Debug\PEGASUS.Common.csprojAssemblyReference.cache
+p:\Desktop\Reader\PEGASUS\PEGASUS\PEGASUS.Common\obj\Debug\PEGASUS.Common.csproj.CopyComplete
+p:\Desktop\Reader\PEGASUS\PEGASUS\PEGASUS.Common\obj\Debug\PEGASUS.Common.dll
+p:\Desktop\Reader\PEGASUS\PEGASUS\PEGASUS.Common\obj\Debug\PEGASUS.Common.pdb
+D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\Tài liệu\21. Nghiên cứu Sick\PEGASUS\PEGASUS.Common\bin\Debug\PEGASUS.Common.dll
+D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\Tài liệu\21. Nghiên cứu Sick\PEGASUS\PEGASUS.Common\bin\Debug\PEGASUS.Common.pdb
+D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\Tài liệu\21. Nghiên cứu Sick\PEGASUS\PEGASUS.Common\bin\Debug\NLog.dll
+D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\Tài liệu\21. Nghiên cứu Sick\PEGASUS\PEGASUS.Common\bin\Debug\NLog.xml
+D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\Tài liệu\21. Nghiên cứu Sick\PEGASUS\PEGASUS.Common\obj\Debug\PEGASUS.Common.csprojAssemblyReference.cache
+D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\Tài liệu\21. Nghiên cứu Sick\PEGASUS\PEGASUS.Common\obj\Debug\PEGASUS.Common.csproj.CopyComplete
+D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\Tài liệu\21. Nghiên cứu Sick\PEGASUS\PEGASUS.Common\obj\Debug\PEGASUS.Common.dll
+D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\Tài liệu\21. Nghiên cứu Sick\PEGASUS\PEGASUS.Common\obj\Debug\PEGASUS.Common.pdb
+D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\1. SourceCode\ITD.Sick\PEGASUS.Common\bin\Debug\PEGASUS.Common.dll
+D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\1. SourceCode\ITD.Sick\PEGASUS.Common\bin\Debug\PEGASUS.Common.pdb
+D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\1. SourceCode\ITD.Sick\PEGASUS.Common\bin\Debug\NLog.dll
+D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\1. SourceCode\ITD.Sick\PEGASUS.Common\bin\Debug\NLog.xml
+D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\1. SourceCode\ITD.Sick\PEGASUS.Common\obj\Debug\PEGASUS.Common.csprojAssemblyReference.cache
+D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\1. SourceCode\ITD.Sick\PEGASUS.Common\obj\Debug\PEGASUS.Common.csproj.CopyComplete
+D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\1. SourceCode\ITD.Sick\PEGASUS.Common\obj\Debug\PEGASUS.Common.dll
+D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\1. SourceCode\ITD.Sick\PEGASUS.Common\obj\Debug\PEGASUS.Common.pdb
+H:\Sick\ITD.Sick\PEGASUS.Common\bin\Debug\PEGASUS.Common.dll
+H:\Sick\ITD.Sick\PEGASUS.Common\bin\Debug\PEGASUS.Common.pdb
+H:\Sick\ITD.Sick\PEGASUS.Common\bin\Debug\NLog.dll
+H:\Sick\ITD.Sick\PEGASUS.Common\bin\Debug\NLog.xml
+H:\Sick\ITD.Sick\PEGASUS.Common\obj\Debug\PEGASUS.Common.csproj.CoreCompileInputs.cache
+H:\Sick\ITD.Sick\PEGASUS.Common\obj\Debug\PEGASUS.Common.csproj.CopyComplete
+H:\Sick\ITD.Sick\PEGASUS.Common\obj\Debug\PEGASUS.Common.dll
+H:\Sick\ITD.Sick\PEGASUS.Common\obj\Debug\PEGASUS.Common.pdb
+H:\Sick\ITD.Sick\PEGASUS.Common\obj\Debug\PEGASUS.Common.csprojAssemblyReference.cache
+H:\Sick\ITD.Sick\PEGASUS.Common\bin\Debug\NLog.config
+D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\1. SourceCode\ITD.Sick_LZR_U921x\PEGASUS.Common\bin\Debug\NLog.config
+D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\1. SourceCode\ITD.Sick_LZR_U921x\PEGASUS.Common\bin\Debug\PEGASUS.Common.dll
+D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\1. SourceCode\ITD.Sick_LZR_U921x\PEGASUS.Common\bin\Debug\PEGASUS.Common.pdb
+D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\1. SourceCode\ITD.Sick_LZR_U921x\PEGASUS.Common\bin\Debug\NLog.dll
+D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\1. SourceCode\ITD.Sick_LZR_U921x\PEGASUS.Common\bin\Debug\NLog.xml
+D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\1. SourceCode\ITD.Sick_LZR_U921x\PEGASUS.Common\obj\Debug\PEGASUS.Common.csproj.CopyComplete
+D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\1. SourceCode\ITD.Sick_LZR_U921x\PEGASUS.Common\obj\Debug\PEGASUS.Common.dll
+D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\1. SourceCode\ITD.Sick_LZR_U921x\PEGASUS.Common\obj\Debug\PEGASUS.Common.pdb
+H:\Sick\ITD.Sick_LZR_U921x\PEGASUS.Common\bin\Debug\NLog.config
+H:\Sick\ITD.Sick_LZR_U921x\PEGASUS.Common\bin\Debug\PEGASUS.Common.dll
+H:\Sick\ITD.Sick_LZR_U921x\PEGASUS.Common\bin\Debug\PEGASUS.Common.pdb
+H:\Sick\ITD.Sick_LZR_U921x\PEGASUS.Common\bin\Debug\NLog.dll
+H:\Sick\ITD.Sick_LZR_U921x\PEGASUS.Common\bin\Debug\NLog.xml
+H:\Sick\ITD.Sick_LZR_U921x\PEGASUS.Common\obj\Debug\PEGASUS.Common.csprojAssemblyReference.cache
+H:\Sick\ITD.Sick_LZR_U921x\PEGASUS.Common\obj\Debug\PEGASUS.Common.csproj.CoreCompileInputs.cache
+H:\Sick\ITD.Sick_LZR_U921x\PEGASUS.Common\obj\Debug\PEGASUS.Common.csproj.CopyComplete
+H:\Sick\ITD.Sick_LZR_U921x\PEGASUS.Common\obj\Debug\PEGASUS.Common.dll
+H:\Sick\ITD.Sick_LZR_U921x\PEGASUS.Common\obj\Debug\PEGASUS.Common.pdb
