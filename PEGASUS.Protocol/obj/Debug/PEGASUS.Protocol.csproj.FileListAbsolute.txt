@@ -63,3 +63,15 @@ H:\Sick\ITD.Sick_LZR_U921x\PEGASUS.Protocol\obj\Debug\PEGASUS.Protocol.csproj.Co
 H:\Sick\ITD.Sick_LZR_U921x\PEGASUS.Protocol\obj\Debug\PEGASUS.Protocol.csproj.CopyComplete
 H:\Sick\ITD.Sick_LZR_U921x\PEGASUS.Protocol\obj\Debug\PEGASUS.Protocol.dll
 H:\Sick\ITD.Sick_LZR_U921x\PEGASUS.Protocol\obj\Debug\PEGASUS.Protocol.pdb
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.Protocol\bin\Debug\NLog.config
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.Protocol\bin\Debug\PEGASUS.Protocol.dll
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.Protocol\bin\Debug\PEGASUS.Protocol.pdb
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.Protocol\bin\Debug\PEGASUS.Common.dll
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.Protocol\bin\Debug\NLog.dll
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.Protocol\bin\Debug\PEGASUS.Common.pdb
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.Protocol\bin\Debug\NLog.xml
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.Protocol\obj\Debug\PEGASUS.Protocol.csprojAssemblyReference.cache
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.Protocol\obj\Debug\PEGASUS.Protocol.csproj.CoreCompileInputs.cache
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.Protocol\obj\Debug\PEGASUS.Protocol.csproj.CopyComplete
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.Protocol\obj\Debug\PEGASUS.Protocol.dll
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.Protocol\obj\Debug\PEGASUS.Protocol.pdb

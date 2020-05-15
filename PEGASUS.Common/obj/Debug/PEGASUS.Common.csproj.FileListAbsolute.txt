@@ -50,3 +50,13 @@ H:\Sick\ITD.Sick_LZR_U921x\PEGASUS.Common\obj\Debug\PEGASUS.Common.csproj.CoreCo
 H:\Sick\ITD.Sick_LZR_U921x\PEGASUS.Common\obj\Debug\PEGASUS.Common.csproj.CopyComplete
 H:\Sick\ITD.Sick_LZR_U921x\PEGASUS.Common\obj\Debug\PEGASUS.Common.dll
 H:\Sick\ITD.Sick_LZR_U921x\PEGASUS.Common\obj\Debug\PEGASUS.Common.pdb
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.Common\bin\Debug\NLog.config
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.Common\bin\Debug\PEGASUS.Common.dll
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.Common\bin\Debug\PEGASUS.Common.pdb
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.Common\bin\Debug\NLog.dll
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.Common\bin\Debug\NLog.xml
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.Common\obj\Debug\PEGASUS.Common.csprojAssemblyReference.cache
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.Common\obj\Debug\PEGASUS.Common.csproj.CoreCompileInputs.cache
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.Common\obj\Debug\PEGASUS.Common.csproj.CopyComplete
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.Common\obj\Debug\PEGASUS.Common.dll
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.Common\obj\Debug\PEGASUS.Common.pdb
