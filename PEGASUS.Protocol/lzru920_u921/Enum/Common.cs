@@ -16,5 +16,16 @@ namespace PEGASUS.Protocol.lzru920_u921.Enum
         public static readonly string Sync_String = "FC-FD-FE-FF";
 
         public static int baudrate = 460800;
+
+        public static byte calculaChecksum(byte[] Cmd, byte[] Data)
+        {
+
+            Byte chkSumByte = 0x00;
+            for (int i = 0; i < Cmd.Length; i++)
+                chkSumByte += Cmd[i];
+            for (int i = 0; i < Data.Length; i++)
+                chkSumByte += Data[i];
+            return chkSumByte;
+        }
     }
 }

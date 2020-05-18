@@ -17,7 +17,7 @@ namespace PEGASUS.Protocol.lzru920_u921
             ushort len = (ushort)( Cmd.Length + Data.Length);
             Size = BitConverter.GetBytes(len);
 
-            Byte checksum = calculaChecksum();
+            Byte checksum = Enum.Common.calculaChecksum(Cmd, Data);
             Chk = addByteToArray(checksum);
         }
 
