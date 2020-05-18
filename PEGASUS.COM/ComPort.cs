@@ -1,6 +1,5 @@
 ﻿using ITD.ACV.TLS.Common.Log;
 using PEGASUS.Common.ConvertDigital;
-using ReaderB;
 using System;
 using System.Collections;
 using System.Collections.Generic;
