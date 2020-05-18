@@ -60,3 +60,17 @@ H:\Sick\ITD.Sick_LZR_U921x\PEGASUS.COM\obj\Debug\PEGASUS.COM.dll
 H:\Sick\ITD.Sick_LZR_U921x\PEGASUS.COM\obj\Debug\PEGASUS.COM.pdb
 D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\1. SourceCode\ITD.Sick_LZR_U921x\PEGASUS.COM\bin\Debug\PEGASUS.Protocol.dll
 D:\OneDrive - CONG TY CO PHAN CONG NGHE TIEN PHONG\ITD\1. SourceCode\ITD.Sick_LZR_U921x\PEGASUS.COM\bin\Debug\PEGASUS.Protocol.pdb
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.COM\bin\Debug\NLog.config
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.COM\bin\Debug\PEGASUS.COM.dll
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.COM\bin\Debug\PEGASUS.COM.pdb
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.COM\bin\Debug\NLog.dll
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.COM\bin\Debug\PEGASUS.Common.dll
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.COM\bin\Debug\PEGASUS.Protocol.dll
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.COM\bin\Debug\PEGASUS.Common.pdb
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.COM\bin\Debug\PEGASUS.Protocol.pdb
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.COM\bin\Debug\NLog.xml
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.COM\obj\Debug\PEGASUS.COM.csprojAssemblyReference.cache
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.COM\obj\Debug\PEGASUS.COM.csproj.CoreCompileInputs.cache
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.COM\obj\Debug\PEGASUS.COM.csproj.CopyComplete
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.COM\obj\Debug\PEGASUS.COM.dll
+H:\Sick\ITD.Sick_LZR_U921\PEGASUS.COM\obj\Debug\PEGASUS.COM.pdb
