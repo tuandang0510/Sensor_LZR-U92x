@@ -21,7 +21,7 @@ namespace PEGASUS.Protocol.lzru920_u921
             //Chk = BitConverter.GetBytes(checksum);
 
             Byte checksum = Enum.Common.calculaChecksum(Cmd, Data);
-            Chk = addByteToArray(checksum);
+            Chk = Enum.Common.addByteToArray(checksum);
         }
 
         //private byte calculaChecksum()
@@ -44,24 +44,24 @@ namespace PEGASUS.Protocol.lzru920_u921
         //    return result;
         //}
 
-        private byte calculaChecksum()
-        {
+        //private byte calculaChecksum()
+        //{
 
-            Byte chkSumByte = 0x00;
-            for (int i = 0; i < Cmd.Length; i++)
-                chkSumByte += Cmd[i];
-            for (int i = 0; i < Data.Length; i++)
-                chkSumByte += Data[i];
-            return chkSumByte;
-        }
+        //    Byte chkSumByte = 0x00;
+        //    for (int i = 0; i < Cmd.Length; i++)
+        //        chkSumByte += Cmd[i];
+        //    for (int i = 0; i < Data.Length; i++)
+        //        chkSumByte += Data[i];
+        //    return chkSumByte;
+        //}
 
-        public byte[] addByteToArray(byte bytevalue)
-        {
-            byte[] newArray = new byte[2];
-            newArray[0] = bytevalue;
-            newArray[1] = 0x01;
-            return newArray;
-        }
+        //public byte[] addByteToArray(byte bytevalue)
+        //{
+        //    byte[] newArray = new byte[2];
+        //    newArray[0] = bytevalue;
+        //    newArray[1] = 0x01;
+        //    return newArray;
+        //}
 
     }
 }

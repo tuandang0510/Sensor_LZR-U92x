@@ -59,20 +59,20 @@ namespace PEGASUS.Protocol.lzru920_u921
             Chk = BitConverter.GetBytes(checksum);
         }
 
-        public int MyProperty { get; set; }
-        private ushort calculaChecksum()
-        {
-            int value = 0;
-            for (int i = 0; i < Cmd.Length; i++)
-            {
-                value = value ^ Cmd[i];
-            }
-            for (int i = 0; i < Data.Length; i++)
-            {
-                value = value ^ Data[i];
-            }
-            return (ushort)value;
-        }
+
+        //private ushort calculaChecksum()
+        //{
+        //    int value = 0;
+        //    for (int i = 0; i < Cmd.Length; i++)
+        //    {
+        //        value = value ^ Cmd[i];
+        //    }
+        //    for (int i = 0; i < Data.Length; i++)
+        //    {
+        //        value = value ^ Data[i];
+        //    }
+        //    return (ushort)value;
+        //}
 
         public void getDatavalue()
         {

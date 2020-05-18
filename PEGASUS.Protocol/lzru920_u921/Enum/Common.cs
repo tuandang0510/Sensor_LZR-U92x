@@ -27,5 +27,13 @@ namespace PEGASUS.Protocol.lzru920_u921.Enum
                 chkSumByte += Data[i];
             return chkSumByte;
         }
+
+        public static byte[] addByteToArray(byte bytevalue)
+        {
+            byte[] newArray = new byte[2];
+            newArray[0] = bytevalue;
+            newArray[1] = 0x01;
+            return newArray;
+        }
     }
 }
